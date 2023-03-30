@@ -5,6 +5,7 @@
 -determinar la hipotenusa dada los catetos de un triangulo
 
 Repositorios
-Pedro:
-Benjamin:
-Maria:
+
+-Pedro: https://github.com/pediazr/clase11.git
+-Benjamin: https://github.com/BenjaminCastroO/js-intro
+-Maria: https://github.com/ManeAravena/js-intro.git
