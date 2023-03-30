@@ -1,10 +1,10 @@
 //calcular IMC (indice de masa corporal) de una persona.//
 var peso, altura, imc;
-
-peso = 65; /*Kg*/
-altura = 1.75; /*mt*/
+console.log("este programa calcula el imc");
+peso = prompt("ingresa peso en kilogramos");
+altura = prompt("ingresa  altura en metros");
 imc = peso / (altura * altura);
-console.log(imc);
+console.log("tu imc es: ", imc);
 
 //calcular IVA de un monto de compra//
 var monto;
